@@ -50,3 +50,6 @@ datasets/
 node_modules/
 # Build output
 build/
+
+# models 
+*.pki
