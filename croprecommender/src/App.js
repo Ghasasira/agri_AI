@@ -55,7 +55,7 @@ function App() {
       <body id="top" className="flex h-full flex-col">
         {<Header />}
         {<Landing />}
-        <section id="about" className="h-screen bg-slate-100">
+        <section id="about" className="flex flex-col bg-slate-100">
           {<Des />}
         </section>
         <section id="features" className="h-screen bg-slate-00">

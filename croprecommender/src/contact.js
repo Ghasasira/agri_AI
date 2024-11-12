@@ -17,15 +17,15 @@ function Contact() {
             <img
               alt="team"
               class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-              src={karthik}
+              src="https://crosspointe.com/wp-content/uploads/2020/09/avatar-male-300x300.jpg"
             />
             <div class="flex-grow sm:pl-8">
               <h2 class="title-font font-medium text-lg text-gray-900">
-                Basupally Karthik Reddy
+                Gasasira Joshua
               </h2>
-              <h3 class="text-gray-500 mb-3">Website Developer</h3>
+              <h3 class="text-gray-500 mb-3">Fullstack Developer</h3>
               <p class="mb-4">
-                Final Year ECE major's student from VIT University.
+                Final Year BSSE Makerere University.
               </p>
               <span class="inline-flex">
                 <a class="text-gray-500">
@@ -76,15 +76,15 @@ function Contact() {
             <img
               alt="team"
               class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-              src={abiram}
+              src="https://crosspointe.com/wp-content/uploads/2020/09/avatar-male-300x300.jpg"
             />
             <div class="flex-grow sm:pl-8">
               <h2 class="title-font font-medium text-lg text-gray-900">
-                Subrahmanya Abhiram
+                Angonda Brian Nyanga
               </h2>
-              <h3 class="text-gray-500 mb-3">Data Analsyt</h3>
+              <h3 class="text-gray-500 mb-3">Fullstack Developer</h3>
               <p class="mb-4">
-                Final Year CSE major's student from VIT University.
+              Final Year BSSE Makerere University.
               </p>
               <span class="inline-flex">
                 <a class="text-gray-500">
