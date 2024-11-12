@@ -5,16 +5,16 @@ function Landing() {
         <h1 className="mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-6xl">
           AGRICULTURE
           <span className="relative  text-blue-600">
-            <span className="relative text-6xl"> MADE SIMPLE </span>
+            <span className="relative text-6xl"> but </span>
           </span>
-          USING
+          with
           <span className="relative  text-blue-600">
             <span className="relative"> MACHINE LEARNING</span>
           </span>
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-          AGRI.AI IS A GROUNDBREAKING INITIATIVE THAT HARNESSSES THE POWER OF
-          MACHINE LEARNING TO REVOLUTIONIZE AGRICULTURE PRACTICES.
+          HARNESSS THE POWER OF
+          MACHINE LEARNING TO REVOLUTIONIZE AGRICULTURE.
         </p>
         <div className="mt-10 flex justify-center gap-x-6">
           <a
@@ -25,7 +25,7 @@ function Landing() {
           </a>
           <a
             className="group inline-flex ring-1 items-center justify-center rounded-full py-2 px-4 text-sm focus:outline-none ring-slate-200 text-slate-700 hover:text-slate-900 hover:ring-slate-300 active:bg-slate-100 active:text-slate-600 focus-visible:outline-blue-600 focus-visible:ring-slate-300"
-            href="https://github.com/karthikreddy-7/CROP_RECCOMENDATION"
+            href="https://github.com/Ghasasira/agri_AI"
           >
             VIEW SOURCE CODE
           </a>
