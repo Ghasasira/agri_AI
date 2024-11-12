@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# C extensions
+*.c
+*.h
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop/
+*.egg-info/
+.pytest_cache/
+
+# Local configuration
+*.ini
+*.env
+*.yaml
+
+# Test files
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+test_*.py
+*_test.py
+tests/
+coverage/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Data files
+data/
+datasets/
+
+
+# React frontend
+# Node modules
+node_modules/
+# Build output
+build/
