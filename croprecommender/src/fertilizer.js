@@ -36,7 +36,7 @@ function Form({ onSubmit }) {
 
   return (
     <>
-      <div className="bg-gradient-to-r from-blue-400 to-violet-400 rounded-lg px-4 m-8 h-[calc(100vh-80px)]">
+      <div className="bg-gradient-to-r from-blue-400 to-violet-400 rounded-lg px-4 m-4 flex flex-col">
         <form onSubmit={handleSubmit}>
           <div className="text-2xl font-bold flex justify-center items-center py-8">
             <h2 className="rounded-lg text-center">

@@ -52,22 +52,22 @@ function App() {
     <>
       <Analytics />
       {inject()}
-      <body id="top" className="flex h-full flex-col">
+      <body id="top" className="flex flex-col md:h-full">
         {<Header />}
         {<Landing />}
         <section id="about" className="flex flex-col bg-slate-100">
           {<Des />}
         </section>
-        <section id="features" className="h-screen bg-slate-00">
+        <section id="features" className="flex flex-col bg-slate-00">
           {<Feature />}
         </section>
-        <section id="croprecommender" className="h-screen bg-slate-00">
+        <section id="croprecommender" className="flex flex-col bg-slate-00">
           {<Croprecommend />}
         </section>
-        <section id="fertilizer" className="h-screen bg-slate-00">
+        <section id="fertilizer" className="flex flex-col bg-slate-00">
           {<Fertilizer />}
         </section>
-        <section id="plantdisease" className="h-screen bg-slate-00">
+        <section id="plantdisease" className="flex flex-col bg-slate-00">
           {<Plantdis />}
         </section>
         <section id="contact" className="h-screen bg-zinc-100">

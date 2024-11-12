@@ -34,7 +34,7 @@ function Form({ onSubmit }) {
 
   return (
     <>
-      <div className="bg-gradient-to-r from-blue-400 to-violet-400 rounded-lg px-4 m-8 h-[calc(100vh-80px)]">
+      <div className="bg-gradient-to-r from-blue-400 to-violet-400 rounded-lg p-4 m-4 flex flex-col">
         <form onSubmit={handleSubmit}>
           <div className="text-2xl font-bold flex justify-center items-center py-8">
             <a>
@@ -43,6 +43,7 @@ function Form({ onSubmit }) {
               </h2>
             </a>
           </div>
+
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 p-4">
             {/* Nitrogen Input */}
             <div className="col-span-1 md:col-span-2 lg:col-span-1">
